@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2568
     wikipedia: http://en.wikipedia.org/wiki/William_Elliot_Griffis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29337#Japanese-Fairy-WorldStories-from-the-Wonder-Lore-of-Japan
 gutenberg_issued: '2009-07-06'
 gutenberg_type: Text
 identifiers:
